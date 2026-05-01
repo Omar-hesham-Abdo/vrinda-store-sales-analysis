@@ -42,3 +42,6 @@ The data is stored in a multi-sheet Excel file:
 - Sales peak during specific months indicating seasonality
 - A small number of products generate most of the revenue
 - Certain regions consistently outperform others
+
+### Dashboard Highlight
+![Dashboard Preview](dashboard.png)
