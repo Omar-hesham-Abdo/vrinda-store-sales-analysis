@@ -35,16 +35,7 @@ The data is stored in a multi-sheet Excel file:
 ├── regions.png
 
 
-## 📈 Key Visualizations
 
-### Sales Trend
-(visuals/Sales.png)
-
-### Top Products
-![Products](visuals/top_products.png)
-
-### Regional Analysis
-![Channels](visuals/channels.png)
 
 ## 📊 Key Insights
 
