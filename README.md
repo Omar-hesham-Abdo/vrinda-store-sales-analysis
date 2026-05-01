@@ -38,7 +38,7 @@ The data is stored in a multi-sheet Excel file:
 ## 📈 Key Visualizations
 
 ### Sales Trend
-![Sales](visuals/Sales.png)
+(visuals/Sales.png)
 
 ### Top Products
 ![Products](visuals/top_products.png)
