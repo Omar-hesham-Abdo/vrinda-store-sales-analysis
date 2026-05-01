@@ -21,3 +21,33 @@ The data is stored in a multi-sheet Excel file:
 
 ## 🛠️ Tools Used
 - Microsoft Excel
+  
+### 🔍 Dashboard Highlights
+
+- Displays total sales and revenue trends over time
+- Shows top-performing products and categories
+- Compares sales across different regions
+- Highlights customer purchasing patterns
+
+- visuals/
+├── sales_trend.png
+├── top_products.png
+├── regions.png
+
+
+## 📈 Key Visualizations
+
+### Sales Trend
+![Sales](visuals/sales_trend.png)
+
+### Top Products
+![Products](visuals/top_products.png)
+
+### Regional Analysis
+![Regions](visuals/regions.png)
+
+## 📊 Key Insights
+
+- Sales peak during specific months indicating seasonality
+- A small number of products generate most of the revenue
+- Certain regions consistently outperform others
