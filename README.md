@@ -29,12 +29,6 @@ The data is stored in a multi-sheet Excel file:
 - Compares sales across different regions
 - Highlights customer purchasing patterns
 
-- visuals/
-├── sales_trend.png
-├── top_products.png
-├── regions.png
-
-
 
 
 ## 📊 Key Insights
