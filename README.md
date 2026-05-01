@@ -44,4 +44,4 @@ The data is stored in a multi-sheet Excel file:
 - Certain regions consistently outperform others
 
 ### Dashboard Highlight
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Visuals/dashboard.png)
