@@ -38,13 +38,13 @@ The data is stored in a multi-sheet Excel file:
 ## 📈 Key Visualizations
 
 ### Sales Trend
-![Sales](visuals/sales_trend.png)
+![Sales](visuals/Sales.png)
 
 ### Top Products
 ![Products](visuals/top_products.png)
 
 ### Regional Analysis
-![Regions](visuals/regions.png)
+![Channels](visuals/channels.png)
 
 ## 📊 Key Insights
 
